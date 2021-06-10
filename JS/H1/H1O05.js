@@ -7,7 +7,7 @@ function setup() {
 
 function draw() {
  noStroke();
- fill('tan');
+ fill('green');
  //translate(25,25);
  rect(0,0,400,400);
  //translate(200,50);
